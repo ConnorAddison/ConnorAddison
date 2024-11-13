@@ -1,0 +1,1 @@
+Hi! I'm Connor Addison. This GitHub project is just a brief one I threw together to share a little about myself as a person, and to identify myself as a software engineer! Feel free to check it out [here](https://connoraddison.github.io/ConnorAddison/)!
